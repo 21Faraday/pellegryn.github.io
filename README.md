@@ -1,2 +1,3 @@
-# pellegryn.github.io
-rust-hello
+# "Hello, World!" Rust Project
+
+This is a basic Rust project
